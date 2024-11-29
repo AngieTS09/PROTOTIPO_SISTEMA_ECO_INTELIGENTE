@@ -7,9 +7,9 @@ Funciona a partir de una batería recargable que alimenta el sistema a través d
 
 ## COMPONTENES 
 
-En la siguiente figura se presentan los componentes principales utilizados para el sistema eco inteligente. 
+En la siguiente figura se presentan los componentes principales utilizados para el sistema eco inteligente.
 
-![imagen](https://github.com/user-attachments/assets/88ad1cad-00bf-4f09-ac32-7051cdbba4fb)
+![Prototipo Completo](https://github.com/user-attachments/assets/f5f37829-1957-47bf-aa1a-ff8224fe7dac)
 
 ## DESARROLLO DEL PROTOTIPO
 
