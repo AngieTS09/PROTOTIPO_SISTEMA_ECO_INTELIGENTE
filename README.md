@@ -39,5 +39,5 @@ Si deseas saber cúal es su funcionamiento puedes guiarte por este manual
 
 Link: https://www.youtube.com/shorts/mJnIRZn1CGk
 
-Página Web: 
+Página Web: https://repositorio-esp32-tjs-sxfpatsk95uvxacfxpp47j.streamlit.app/
 
