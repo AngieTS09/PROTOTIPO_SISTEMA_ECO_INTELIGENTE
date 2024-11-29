@@ -17,20 +17,26 @@ El paso a paso que realizamos con este proyecto lo puedes encontrar en el siguie
 
 [Desarrollo del prototipo.pdf](https://github.com/user-attachments/files/17961601/Desarrollo.del.prototipo.pdf)
 
-## Manual de Usuario
+## MANUAL DE USUARIO
 
 Si deseas saber cúal es su funcionamiento puedes guiarte por este manual 
 
 [Manual de Usuario.pdf](https://github.com/user-attachments/files/17961608/Manual.de.Usuario.pdf)
 
-## Anexos
+## ANEXOS
 
-y por último aquí se encuentran los códigos que se utilizaron para programar al esp32.
+### CÓDIGOS
 
 [Uploading PCB_Digitales.ino…]()
 
 [Uploading ThingSpeak_Sistema_Eco_Inteligente.ino…]()
 
+### REGISTRO USUARIO
+
+
+
 ## EXPLICACIÓN DEL PROTOTIPO
 
 Link: https://www.youtube.com/shorts/mJnIRZn1CGk
+Página Web: 
+
