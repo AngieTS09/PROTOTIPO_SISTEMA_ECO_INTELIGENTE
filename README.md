@@ -31,9 +31,9 @@ Si deseas saber cúal es su funcionamiento puedes guiarte por este manual
 
 [Uploading ThingSpeak_Sistema_Eco_Inteligente.ino…]()
 
-### REGISTRO USUARIO
+### REGISTRO DE PROTOTIPO
 
-
+[Registro_de_Prototipos_Digital.pdf](https://github.com/user-attachments/files/17963392/Registro_de_Prototipos_Digital.pdf)
 
 ## EXPLICACIÓN DEL PROTOTIPO
 
